@@ -1,0 +1,31 @@
+h1 { 
+  text-align: center;
+  color: #ffff;
+}
+
+.divNav{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100vw;
+  height: 4.5rem;
+}
+
+
+.bodyNode{
+  background-color: #090C15;
+}
+
+
+.bodyReact{
+background-color: #282C34;
+}
+
+
+.bodySql{
+  background-color: #F7F7F7;
+}
+
+.classImage{
+ background-color: white;
+}
